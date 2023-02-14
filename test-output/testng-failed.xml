@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [End to End Alarm Testcases]">
+  <test thread-count="5" name="Check First (failed)">
+    <classes>
+      <class name="TestCases.TC01_CheckFirst">
+        <methods>
+          <include name="setupDriver"/>
+          <include name="CheckFirstCLock"/>
+          <include name="TearDown"/>
+          <include name="getresult"/>
+        </methods>
+      </class> <!-- TestCases.TC01_CheckFirst -->
+    </classes>
+  </test> <!-- Check First (failed) -->
+  <test thread-count="5" name="Check Second (failed)">
+    <classes>
+      <class name="TestCases.TC02_CheckSecond">
+        <methods>
+          <include name="setupDriver"/>
+          <include name="TearDown"/>
+          <include name="getresult"/>
+          <include name="CheckSecondClock"/>
+        </methods>
+      </class> <!-- TestCases.TC02_CheckSecond -->
+    </classes>
+  </test> <!-- Check Second (failed) -->
+  <test thread-count="5" name="Check Third (failed)">
+    <classes>
+      <class name="TestCases.TC03_CheckThird">
+        <methods>
+          <include name="CheckThirdCLock"/>
+          <include name="setupDriver"/>
+          <include name="TearDown"/>
+          <include name="getresult"/>
+        </methods>
+      </class> <!-- TestCases.TC03_CheckThird -->
+    </classes>
+  </test> <!-- Check Third (failed) -->
+</suite> <!-- Failed suite [End to End Alarm Testcases] -->

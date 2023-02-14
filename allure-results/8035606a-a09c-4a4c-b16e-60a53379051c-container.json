@@ -1,0 +1,1 @@
+{"uuid":"8035606a-a09c-4a4c-b16e-60a53379051c","name":"TestCases.TC03_CheckThird","children":["6c6c20fa-b3cd-4c35-9aa1-6f607ef46585"],"befores":[],"afters":[{"name":"TearDown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1675961425145,"stop":1675961425590}],"start":1675961403530,"stop":1675961425592}

@@ -1,0 +1,5 @@
+TestCases\TestBases.class
+TestCases\TC02_CheckSecond.class
+TestCases\TC01_CheckFirst.class
+TestCases\TC04_CheckFourth.class
+TestCases\TC03_CheckThird.class

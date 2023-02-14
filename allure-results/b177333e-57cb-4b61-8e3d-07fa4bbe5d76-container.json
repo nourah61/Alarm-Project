@@ -1,0 +1,1 @@
+{"uuid":"b177333e-57cb-4b61-8e3d-07fa4bbe5d76","name":"Command line test","children":[],"befores":[{"name":"setupDriver","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1675788321331,"stop":1675788332066}],"afters":[],"start":1675788321311,"stop":1675788332078}

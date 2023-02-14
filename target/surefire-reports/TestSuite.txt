@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 3, Time elapsed: 8.981 s <<< FAILURE! - in TestSuite
+TestCases.TC04_CheckFourth.setupDriver  Time elapsed: 8.637 s  <<< FAILURE!
+org.openqa.selenium.WebDriverException: 
+Connection refused: connect
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O0R880F', ip: '192.168.0.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: driver.version: AndroidDriver
+Caused by: java.net.ConnectException: Connection refused: connect
+

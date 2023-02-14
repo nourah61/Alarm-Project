@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="End to End Alarm Testcases">
+
+
+
+    <test verbose="2" preserve-order="true" name="Check Fourth ">
+        <classes>
+            <class name="TestCases.TC04_CheckFourth">
+                <methods>
+                    <include name="CheckFourthCLock"/>
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+
+</suite>

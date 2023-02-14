@@ -1,0 +1,1 @@
+{"uuid":"c1b158a2-2358-4e65-a700-7ee9b98226e8","name":"TestCases.TC01_CheckFirst","children":["f491f90c-924c-4924-af3c-f95794feeb5a"],"befores":[],"afters":[{"name":"TearDown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1675528103851,"stop":1675528105042}],"start":1675528079166,"stop":1675528105049}
